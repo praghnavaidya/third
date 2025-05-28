@@ -20,6 +20,8 @@ package program1;
     public static void main(String[] args) {
         Employee emp = new Employee("John Doe", 12345, 50000.0, "Engineering");
         emp.dispay();
+
+        System.out.println("masterr");
     }
 }
 
